@@ -1,53 +1,53 @@
-# GOOGLE SEARCH — FUNDO DE FUNIL (BOFU)
+# GOOGLE SEARCH — BOTTOM OF FUNNEL (BOFU)
 ## Ikaria Lean Belly Juice — healthreport.today
-### Rede de Pesquisa APENAS | Alta Intenção de Compra | Maio 2026
+### Search Network ONLY | High Purchase Intent | May 2026
 
 ---
 
-## ESTRATÉGIA BOFU
+## BOFU STRATEGY
 
-O lead no fundo de funil **já decidiu comprar** — está comparando opções, buscando reviews e procurando onde comprar. Nosso trabalho é:
+The bottom-of-funnel lead has **already decided to buy** — they are comparing options, reading reviews, and looking for where to purchase. Our job is to:
 
-1. Interceptar antes de ir direto ao vendor
-2. Validar a decisão com prova social na bridge page
-3. Criar urgência e redirecionar via nosso HopLink
+1. Intercept them before they go directly to the vendor
+2. Validate their decision with social proof on the bridge page
+3. Create urgency and redirect via our HopLink
 
 ```
-Busca no Google
+Google Search
      ↓
-Nosso Anúncio (antes do site oficial)
+Our Ad (appears before the official site)
      ↓
-healthreport.today (bridge — valida + urgência)
+healthreport.today (bridge — validates + urgency)
      ↓
-theikariajuice.com (HopLink — comissão garantida)
+theikariajuice.com (HopLink — commission secured)
 ```
 
 ---
 
-## CONFIGURAÇÕES DA CAMPANHA
+## CAMPAIGN SETTINGS
 
-| Configuração | Valor |
+| Setting | Value |
 |---|---|
-| Nome | `LBJ - Search - BOFU - [DATA]` |
-| Tipo | Search (Rede de Pesquisa SOMENTE) |
-| Objetivo | Conversões → Compra |
-| Rede de Pesquisa de Parceiros | **DESLIGADO** |
-| Rede Display | **DESLIGADO** |
-| Lance | Maximizar Conversões (semana 1–2) → CPA Desejado $80 (semana 3+) |
-| Budget Diário | **$15/dia** semana 1 → **$25/dia** semana 2+ |
-| Localizações | Estados Unidos, Canadá, Reino Unido, Austrália |
-| Opção de Localização | Pessoas **presentes** nesses países |
-| Idioma | Inglês |
-| Programação de Anúncios | 6h – 23h (hora local) |
-| Rotação de Anúncios | Otimizar — Preferir melhor desempenho |
-| Correspondência URL | Expandida — DESLIGADO |
+| Campaign Name | `LBJ - Search - BOFU - [DATE]` |
+| Type | Search Network ONLY |
+| Goal | Conversions → Purchase |
+| Search Partners | **OFF** |
+| Display Network | **OFF** |
+| Bidding | Maximize Conversions (weeks 1–2) → Target CPA $80 (week 3+) |
+| Daily Budget | **$15/day** week 1 → **$25/day** week 2+ |
+| Locations | United States, Canada, United Kingdom, Australia |
+| Location Option | People **physically in** these locations |
+| Language | English |
+| Ad Schedule | 6am – 11pm (local time) |
+| Ad Rotation | Optimize — Prefer best performing ads |
+| URL Expansion | **OFF** |
 
 ---
 
-## ESTRUTURA DE AD GROUPS — BOFU
+## AD GROUP STRUCTURE — BOFU
 
 ```
-CAMPANHA: LBJ - Search - BOFU
+CAMPAIGN: LBJ - Search - BOFU
 │
 ├── AD GROUP 1: Branded Buy Intent
 │   └── "ikaria lean belly juice buy / order / official"
@@ -71,9 +71,9 @@ CAMPANHA: LBJ - Search - BOFU
 
 ## AD GROUP 1 — BRANDED BUY INTENT
 
-> O lead já conhece o produto e quer comprar. Interceptar ANTES do site oficial.
+> The lead already knows the product and wants to buy. Intercept BEFORE they reach the official site.
 
-### Keywords (Correspondência Exata + Frase)
+### Keywords (Exact Match + Phrase Match)
 
 ```
 [ikaria lean belly juice buy]
@@ -91,9 +91,9 @@ CAMPANHA: LBJ - Search - BOFU
 "where to buy ikaria lean belly juice"
 ```
 
-> **Nota:** Keywords Amazon/Walmart capturam leads que não sabem que só vende no site oficial — nossa bridge page explica isso e redireciona.
+> **Note:** Amazon/Walmart keywords capture leads who don't know the product is sold exclusively on the official site — our bridge page clarifies this and redirects them.
 
-### Negative Keywords (neste Ad Group)
+### Ad Group Negative Keywords
 ```
 free
 free trial
@@ -107,41 +107,41 @@ recall
 ### RSA 1 — BRANDED BUY INTENT
 
 **HEADLINES (15):**
-| # | Headline | Tipo |
+| # | Headline | Type |
 |---|---|---|
-| 1 | `Ikaria Lean Belly Juice — Leia Antes de Comprar` | Curiosidade |
-| 2 | `Site Oficial Ikaria — Acesso Direto` | Confiança |
-| 3 | `Ikaria Só Vende no Site Oficial` | Informação útil |
-| 4 | `Ikaria Lean Belly — Resultado Real em 90 dias` | Prova social |
-| 5 | `Garanta o Desconto Máximo Hoje` | Urgência |
-| 6 | `Karen Perdeu 34 lbs — Leia Antes de Pedir` | Prova social |
-| 7 | `Relatório Gratuito + Link Oficial` | Valor |
-| 8 | `100% Natural — Sem Prescrição` | Reassurance |
-| 9 | `Frete Grátis em Pedidos de 3 Meses` | Benefício |
-| 10 | `Garantia de 180 Dias — Sem Risco` | Remove objeção |
-| 11 | `Não Compre Sem Ler Este Relatório` | FOMO |
-| 12 | `Entenda o Mecanismo Antes de Comprar` | Curiosidade |
-| 13 | `Ikaria — O Que Ninguém Te Conta` | Padrão interrompido |
-| 14 | `Descubra Por Que Funciona Depois dos 45` | Relevância |
-| 15 | `Leia o Relatório Gratuito Agora` | CTA direto |
+| 1 | `Ikaria Lean Belly Juice — Read Before You Buy` | Curiosity |
+| 2 | `Official Ikaria Site — Direct Access Here` | Trust |
+| 3 | `Ikaria Only Sold on the Official Website` | Useful info |
+| 4 | `Ikaria Lean Belly — Real Results in 90 Days` | Social proof |
+| 5 | `Get the Maximum Discount Today` | Urgency |
+| 6 | `Karen Lost 34 lbs — Read Before You Order` | Social proof |
+| 7 | `Free Research Report + Official Link` | Value |
+| 8 | `100% Natural — No Prescription Needed` | Reassurance |
+| 9 | `Free Shipping on 3-Month Orders` | Benefit |
+| 10 | `180-Day Money-Back Guarantee — Zero Risk` | Objection removal |
+| 11 | `Don't Buy Without Reading This Report First` | FOMO |
+| 12 | `Understand the Mechanism Before You Order` | Curiosity |
+| 13 | `Ikaria — What Nobody Tells You` | Pattern interrupt |
+| 14 | `Why It Works Differently After 45` | Relevance |
+| 15 | `Read the Free Health Report Now` | Direct CTA |
 
 **DESCRIPTIONS (4):**
 
 ```
-1. Antes de comprar Ikaria Lean Belly Juice, leia o relatório gratuito que explica o
-mecanismo ceramida + mitocôndria. Karen (54 anos) perdeu 34 lbs. Veja a história completa.
+1. Before buying Ikaria Lean Belly Juice, read the free report that explains the ceramide
++ mitochondria mechanism. Karen, 54, lost 34 lbs. Read her full story before you order.
 
-2. Ikaria só é vendido no site oficial — não no Amazon ou Walmart. Leia o relatório antes
-de pedir para entender exatamente por que funciona em mulheres acima de 45 anos.
+2. Ikaria is only sold on the official website — NOT on Amazon or Walmart. Read the free
+report first to understand exactly why it works for women over 45, then order with confidence.
 
-3. Garantia de 180 dias sem risco. Frete grátis no pacote de 3 meses. Mas antes — leia
-o relatório de 8 minutos que vai mudar sua visão sobre perda de peso.
+3. 180-day money-back guarantee. Free shipping on the 3-month package. But first — read
+the 8-minute report that will change the way you think about weight loss.
 
-4. 200.000 mulheres já leram este relatório antes de comprar. Entenda os 8 ingredientes,
-o mecanismo de ceramidas e os resultados reais. Relatório gratuito. Sem email necessário.
+4. 200,000 women have read this report before buying. Understand the 8 ingredients, the
+ceramide mechanism, and the real results. Free report. No email required.
 ```
 
-**URL Final:**
+**Final URL:**
 ```
 https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&utm_content=ag1-brand-buy&gclid={gclid}
 ```
@@ -152,7 +152,7 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 
 ## AD GROUP 2 — REVIEWS + DOES IT WORK
 
-> O lead está em modo de pesquisa — quer validação antes de comprar. Alta intenção de conversão.
+> The lead is in research mode — wants validation before buying. High conversion intent.
 
 ### Keywords
 
@@ -177,40 +177,39 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 **HEADLINES (15):**
 | # | Headline |
 |---|---|
-| 1 | `Ikaria Lean Belly — Review Honesto 2026` |
-| 2 | `Funciona Mesmo? Leia Antes de Decidir` |
-| 3 | `Karen, 54 Anos — Resultado Real em 90 Dias` |
-| 4 | `Não é Hype — Aqui Está a Ciência` |
-| 5 | `Ingredientes Reais. Pesquisa Verificável.` |
-| 6 | `O Que a Maioria das Reviews Não Conta` |
-| 7 | `Ceramidas — O Mecanismo Por Trás dos Resultados` |
-| 8 | `200.000 Mulheres Já Testaram` |
-| 9 | `Review Baseado em Pesquisa — Não em Opinião` |
-| 10 | `Leia o Relatório de 8 Minutos Primeiro` |
-| 11 | `Mulheres 45-67 Reportam Resultados Reais` |
-| 12 | `Sem Dieta. Sem Academia. Veja o Porquê.` |
-| 13 | `A Ciência Por Trás do Ikaria Explicada` |
-| 14 | `Garantia de 180 Dias — Zero Risco` |
-| 15 | `Relatório Gratuito — Sem Email Necessário` |
+| 1 | `Ikaria Lean Belly — Honest Review 2026` |
+| 2 | `Does It Really Work? Read Before Deciding` |
+| 3 | `Karen, Age 54 — Real Results in 90 Days` |
+| 4 | `Not Hype — Here Is the Actual Science` |
+| 5 | `Real Ingredients. Verifiable Research.` |
+| 6 | `What Most Reviews Don't Tell You` |
+| 7 | `Ceramides — The Mechanism Behind the Results` |
+| 8 | `200,000 Women Have Already Tried This` |
+| 9 | `Research-Based Review — Not Just Opinions` |
+| 10 | `Read the 8-Minute Report First` |
+| 11 | `Women 45-67 Reporting Real Results` |
+| 12 | `No Diet. No Gym. Here's Why It Works.` |
+| 13 | `The Science Behind Ikaria — Explained Simply` |
+| 14 | `180-Day Guarantee — Absolute Zero Risk` |
+| 15 | `Free Report — No Email Required` |
 
 **DESCRIPTIONS (4):**
 
 ```
-1. Review completo: ingredientes, mecanismo ceramida-mitocôndria, resultados reais de
-mulheres 45-67. Relatório de 8 minutos que responde todas as suas dúvidas antes de comprar.
+1. Full review: ingredients, ceramide-mitochondria mechanism, real results from women 45-67.
+An 8-minute report that answers every question you have before spending a dollar.
 
-2. A ciência por trás do Ikaria Lean Belly Juice explicada em linguagem simples.
-Pesquisadores da Universidade Keio identificaram o composto que bloqueia a queima de gordura
-após os 45. Leia o relatório gratuito.
+2. The science behind Ikaria Lean Belly Juice explained in plain English. Researchers at
+Keio University identified the compound blocking fat burning after 45. Read the free report.
 
-3. Karen (Nashville, 54 anos) perdeu 34 lbs em 90 dias. Diane (61 anos) voltou a correr
-com a neta. Resultados reais, nomes reais. Sem dieta radical. Relatório gratuito.
+3. Karen (Nashville, age 54) lost 34 lbs in 90 days. Diane (age 61) started running with
+her granddaughter again. Real results, real names. No extreme dieting. Free report.
 
-4. Antes de acreditar em qualquer review — leia o relatório original. 8 minutos.
-Gratuito. Explica por que funciona especificamente em mulheres acima de 45 anos.
+4. Before trusting any review — read the original research report. 8 minutes. Free. No
+email. Explains exactly why this works specifically for women over 45.
 ```
 
-**URL Final:**
+**Final URL:**
 ```
 https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&utm_content=ag2-review&gclid={gclid}
 ```
@@ -221,7 +220,7 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 
 ## AD GROUP 3 — PRICE + DEAL INTENT
 
-> O lead decidiu comprar — está procurando o melhor preço. Menor CPC, maior conversão.
+> The lead has decided to buy — they are looking for the best price. Lower CPC, highest conversion rate.
 
 ### Keywords
 
@@ -246,39 +245,40 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 **HEADLINES (15):**
 | # | Headline |
 |---|---|
-| 1 | `Melhor Preço Ikaria — Acesso Aqui` |
-| 2 | `Desconto Máximo — Pacote 3 Meses` |
-| 3 | `Ikaria Lean Belly — Oferta Oficial 2026` |
-| 4 | `Frete Grátis + Bônus no Pacote 6 Meses` |
-| 5 | `Garantia 180 Dias — Compre Sem Risco` |
-| 6 | `Só Vende no Site Oficial — Sem Amazon` |
-| 7 | `Preço Mais Baixo Garantido Hoje` |
-| 8 | `Não Pague Mais Caro Em Outro Site` |
-| 9 | `Leia o Relatório Gratuito + Acesse a Oferta` |
-| 10 | `Economize Comprando o Pacote Completo` |
-| 11 | `Oferta Por Tempo Limitado — Hoje Apenas` |
-| 12 | `Código Desconto? Leia Antes — Tem Mais` |
-| 13 | `180 Dias Para Devolver — Zero Risco` |
-| 14 | `Acesso Direto ao Site Oficial Ikaria` |
-| 15 | `Veja a Oferta Atual Antes de Comprar` |
+| 1 | `Best Price on Ikaria — Access Here` |
+| 2 | `Maximum Discount — 3-Month Package` |
+| 3 | `Ikaria Lean Belly — Official 2026 Offer` |
+| 4 | `Free Shipping + Bonuses on 6-Month Order` |
+| 5 | `180-Day Guarantee — Buy Without Risk` |
+| 6 | `Only on Official Site — Not Amazon` |
+| 7 | `Lowest Price Guaranteed Today` |
+| 8 | `Don't Pay More on Any Other Site` |
+| 9 | `Read the Free Report + Access the Offer` |
+| 10 | `Save More Buying the Full Package` |
+| 11 | `Limited-Time Offer — Today Only` |
+| 12 | `Looking for a Coupon? Read This First` |
+| 13 | `180 Days to Return — Absolute Zero Risk` |
+| 14 | `Direct Access to the Official Ikaria Site` |
+| 15 | `See the Current Offer Before You Buy` |
 
 **DESCRIPTIONS (4):**
 
 ```
-1. O melhor preço do Ikaria Lean Belly Juice está no site oficial. Pacote 3 meses com
-frete grátis + 2 bônus digitais. Leia o relatório gratuito antes de pedir — vale 8 minutos.
+1. The best price on Ikaria Lean Belly Juice is on the official website. 3-month package
+with free shipping + 2 digital bonuses. Read the free report before ordering — it takes
+8 minutes and is worth it.
 
-2. Não existe desconto no Amazon ou Walmart — o Ikaria é vendido EXCLUSIVAMENTE no site
-oficial. Acesse agora para ver a oferta atual com garantia de 180 dias.
+2. There are no discounts on Amazon or Walmart — Ikaria is sold EXCLUSIVELY on the official
+site. Visit now to see the current offer with the full 180-day money-back guarantee.
 
-3. Compre o pacote de 3 ou 6 meses e economize até 53% por frasco. Garantia de 180 dias
-sem perguntas. Frete grátis nos EUA. Leia o relatório e acesse a oferta.
+3. Buy the 3 or 6-month package and save up to 53% per bottle. 180-day no-questions
+guarantee. Free US shipping. Read the report and access the offer directly.
 
-4. Antes de usar qualquer cupom: o melhor negócio é o pacote de 6 meses — $39/frasco vs
-$69 avulso. Garantia completa de 180 dias. Relatório gratuito explica tudo.
+4. Before using any coupon code: the best deal is the 6-month package — $39/bottle vs
+$69 single. Full 180-day guarantee included. Free report explains everything.
 ```
 
-**URL Final:**
+**Final URL:**
 ```
 https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&utm_content=ag3-price&gclid={gclid}
 ```
@@ -289,7 +289,7 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 
 ## AD GROUP 4 — BEST WEIGHT LOSS SUPPLEMENT (BUY-READY)
 
-> Lead pronto para comprar mas ainda comparando produtos. Alta intenção, alto CPC — vale o investimento.
+> Lead ready to buy but still comparing products. High intent, higher CPC — worth the investment.
 
 ### Keywords
 
@@ -315,40 +315,40 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 **HEADLINES (15):**
 | # | Headline |
 |---|---|
-| 1 | `#1 Suplemento Emagrecimento Mulheres 2026` |
-| 2 | `Por Que Este É Diferente Depois dos 45` |
-| 3 | `O Único Que Age nas Ceramidas` |
-| 4 | `8 Ingredientes Naturais Clinicamente Estudados` |
-| 5 | `Sem Estimulantes. Sem Ansiedade. Funciona.` |
-| 6 | `Mulheres 45-67 Escolheram Este Em 2026` |
-| 7 | `Aborda a Causa Raiz — Não o Sintoma` |
-| 8 | `Karen (54) Perdeu 34 lbs — Sem Academia` |
-| 9 | `Relatório Gratuito Compara Todos os Produtos` |
-| 10 | `Por Que Outros Suplementos Falham Após 45` |
-| 11 | `Mecanismo Ceramida-Mitocôndria — Único` |
-| 12 | `200.000 Mulheres Já Escolheram` |
-| 13 | `Garantia 180 Dias — Melhor Do Mercado` |
-| 14 | `Resultados em 3 Semanas ou Dinheiro de Volta` |
-| 15 | `Leia o Relatório Que Mudou Tudo` |
+| 1 | `#1 Weight Loss Supplement for Women 2026` |
+| 2 | `Why This One Works Differently After 45` |
+| 3 | `The Only Formula That Targets Ceramides` |
+| 4 | `8 Natural Ingredients — Clinically Studied` |
+| 5 | `No Stimulants. No Jitters. It Works.` |
+| 6 | `Women 45-67 Chose This in 2026` |
+| 7 | `Addresses the Root Cause — Not the Symptom` |
+| 8 | `Karen (54) Lost 34 lbs — No Gym` |
+| 9 | `Free Report Compares All Top Products` |
+| 10 | `Why Other Supplements Fail After 45` |
+| 11 | `The Ceramide-Mitochondria Mechanism — Unique` |
+| 12 | `200,000 Women Have Already Made the Switch` |
+| 13 | `180-Day Guarantee — Best in the Category` |
+| 14 | `Results in 3 Weeks or Full Money Back` |
+| 15 | `Read the Report That Changed Everything` |
 
 **DESCRIPTIONS (4):**
 
 ```
-1. A maioria dos suplementos falha após os 45 porque não ataca ceramidas — o composto
-que bloqueia a queima de gordura celular. O Ikaria Lean Belly Juice é o único com os 8
-ingredientes ceramida-flush. Relatório gratuito explica.
+1. Most supplements fail after 45 because they ignore ceramides — the compound that blocks
+fat-burning at the cellular level. Ikaria Lean Belly Juice is the only formula with all
+8 ceramide-flushing ingredients. Free report explains why.
 
-2. Sem termogênicos. Sem supressores de apetite. O Ikaria reativa suas mitocôndrias
-naturalmente. Mulheres 45-67 relatam perder 20-40 lbs sem dieta radical. Leia o relatório.
+2. No thermogenics. No appetite suppressants. Ikaria reactivates your mitochondria
+naturally. Women 45-67 report losing 20-40 lbs without radical dieting. Read the free report.
 
-3. Comparação honesta: por que o Ikaria supera Java Burn, Alpilean e Exipure em mulheres
-acima de 45. A diferença está no mecanismo. Relatório de 8 minutos — gratuito e sem email.
+3. Honest comparison: why Ikaria outperforms Java Burn, Alpilean, and Exipure in women
+over 45. The difference is in the mechanism. 8-minute report — free, no email required.
 
-4. Garantia de 180 dias — a mais longa da categoria. Se não funcionar, 100% do dinheiro
-de volta. Sem perguntas. Sem burocracia. Leia o relatório e decida com confiança.
+4. 180-day guarantee — the longest in the category. If it doesn't work, 100% of your money
+back. No questions asked. No hassle. Read the report and decide with full confidence.
 ```
 
-**URL Final:**
+**Final URL:**
 ```
 https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&utm_content=ag4-best&gclid={gclid}
 ```
@@ -359,7 +359,7 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 
 ## AD GROUP 5 — COMPETITOR CONQUESTING BOFU
 
-> Lead pronto para comprar um concorrente. Interceptar e mostrar por que o Ikaria é superior.
+> Lead ready to buy a competitor product. Intercept and show why Ikaria is the superior choice.
 
 ### Keywords
 
@@ -389,42 +389,41 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 **HEADLINES (15):**
 | # | Headline |
 |---|---|
-| 1 | `Antes de Comprar Java Burn — Leia Isso` |
-| 2 | `Por Que Mulheres Trocaram Java Burn Por Este` |
-| 3 | `Alpilean vs Ikaria — Qual É Melhor?` |
-| 4 | `O Que Java Burn Não Tem (Mas Deveria)` |
-| 5 | `A Diferença Está no Mecanismo Ceramida` |
-| 6 | `Mulheres 45+ Estão Migrando Para Este` |
-| 7 | `Relatório Compara Os 5 Principais de 2026` |
-| 8 | `EPC $1.62 Não É Por Acaso — Saiba Por Quê` |
-| 9 | `Não Compre Nada Antes de Ler Isso` |
-| 10 | `A Alternativa Que Está Dominando em 2026` |
-| 11 | `Por Que Ceramidas Importam Mais Que Termogênicos` |
-| 12 | `Garantia 180 Dias vs 60 Dias — Veja a Diferença` |
-| 13 | `Karen Trocou Java Burn Por Isso e Perdeu 34 lbs` |
-| 14 | `Leia o Relatório Independente Gratuito` |
-| 15 | `Decisão Informada Vale Mais Que Impulso` |
+| 1 | `Before You Buy Java Burn — Read This` |
+| 2 | `Why Women Switched From Java Burn to This` |
+| 3 | `Alpilean vs Ikaria — Which Is Actually Better?` |
+| 4 | `What Java Burn Is Missing (But Should Have)` |
+| 5 | `The Difference Is the Ceramide Mechanism` |
+| 6 | `Women 45+ Are Making the Switch in 2026` |
+| 7 | `Free Report Ranks the Top 5 Supplements` |
+| 8 | `Don't Buy Anything Until You Read This` |
+| 9 | `The Alternative Dominating Results in 2026` |
+| 10 | `Why Ceramides Matter More Than Thermogenics` |
+| 11 | `180-Day Guarantee vs Their 60 Days` |
+| 12 | `Karen Switched From Java Burn — Lost 34 lbs` |
+| 13 | `Independent Free Report — No Bias` |
+| 14 | `8 Ingredients vs Their 4 — See the Difference` |
+| 15 | `An Informed Decision Beats Impulse Every Time` |
 
 **DESCRIPTIONS (4):**
 
 ```
-1. Java Burn e Alpilean usam termogênicos — aceleram metabolismo mas ignoram ceramidas.
-Para mulheres acima de 45, o bloqueio é celular, não metabólico. Leia o relatório que
-explica a diferença antes de gastar dinheiro.
+1. Java Burn and Alpilean use thermogenics — they speed up metabolism but ignore ceramides.
+For women over 45, the blockage is cellular, not metabolic. Read the free report that
+explains the critical difference before spending your money.
 
-2. O Ikaria Lean Belly Juice tem o mecanismo ceramida-flush que Java Burn, Alpilean e
-Exipure não possuem. Para mulheres 45+, essa é a diferença entre resultados reais e
-mais uma decepção. Relatório gratuito.
+2. Ikaria Lean Belly Juice has the ceramide-flush mechanism that Java Burn, Alpilean, and
+Exipure simply don't have. For women 45+, this is the difference between real results and
+another disappointment. Free report.
 
-3. Comparamos os 5 principais suplementos de emagrecimento para mulheres 45+. Apenas
-um ataca a causa raiz da gordura abdominal após a menopausa. Relatório de 8 minutos.
-Gratuito. Sem email.
+3. We compared the top 5 weight loss supplements for women over 45. Only one targets the
+root cause of abdominal fat after menopause. 8-minute report. Free. No email required.
 
-4. Garantia de 180 dias vs 60 dias da concorrência. 8 ingredientes naturais vs 4.
-EPC comprovado de $1.35 no ClickBank. Leia o relatório independente antes de decidir.
+4. 180-day guarantee vs competitors' 60 days. 8 natural ingredients vs their 4. ClickBank
+EPC of $1.35 — proven results. Read the independent report before making your decision.
 ```
 
-**URL Final:**
+**Final URL:**
 ```
 https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&utm_content=ag5-competitor&gclid={gclid}
 ```
@@ -433,49 +432,48 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 
 ---
 
-## EXTENSÕES DE ANÚNCIO
+## AD EXTENSIONS
 
-### Sitelinks (4 obrigatórios)
+### Sitelinks (4 required)
 
-| Texto | Descrição 1 | Descrição 2 | URL |
+| Link Text | Description 1 | Description 2 | URL |
 |---|---|---|---|
-| `Relatório Gratuito` | Entenda o mecanismo ceramida | 8 minutos — sem email | healthreport.today |
-| `História da Karen` | 54 anos, Nashville, 34 lbs perdidos | Sem dieta, sem academia | healthreport.today/#story |
-| `Os 8 Ingredientes` | Dandelion Root, Resveratrol, EGCG | Pesquisa verificável | healthreport.today/#ingredients |
-| `Garantia 180 Dias` | 100% dinheiro de volta | Sem perguntas | healthreport.today/#guarantee |
+| `Free Research Report` | Understand the ceramide mechanism | 8 minutes — no email needed | healthreport.today |
+| `Karen's Full Story` | Age 54, Nashville, lost 34 lbs | No diet, no gym required | healthreport.today/#story |
+| `The 8 Ingredients` | Dandelion Root, Resveratrol, EGCG | Verifiable research behind each | healthreport.today/#ingredients |
+| `180-Day Guarantee` | 100% money back, no questions | Zero risk — full protection | healthreport.today/#guarantee |
 
-### Callouts (8 mínimo)
+### Callout Extensions (8 minimum)
 ```
-Relatório Gratuito
-Sem Email Necessário
-Garantia 180 Dias
-100% Natural
-8 Ingredientes Estudados
-Sem Prescrição
-Frete Grátis (3 meses+)
-Resultados em 3 Semanas
+Free Research Report
+No Email Required
+180-Day Money-Back Guarantee
+100% Natural Formula
+8 Clinically-Studied Ingredients
+No Prescription Needed
+Free US Shipping (3-month+)
+Results Within 3 Weeks
 ```
 
 ### Structured Snippets
-- Header: **Benefícios**
-- Valores: `Reduz Gordura Abdominal`, `Aumenta Energia`, `Melhora Metabolismo`, `Sem Efeitos Colaterais`, `Formula Natural`
+- Header: **Benefits**
+- Values: `Reduces Belly Fat`, `Boosts Daily Energy`, `Improves Metabolism`, `No Side Effects`, `All-Natural Formula`
 
 ### Promotion Extension
-- Occasion: (deixar em branco)
-- Promotion: `Pacote 6 meses — economia de 53%`
-- Promotion detail: `Frete grátis + 2 bônus digitais`
+- Occasion: (leave blank)
+- Promotion: `6-month package — save 53%`
+- Promotion detail: `Free US shipping + 2 digital bonuses included`
 - URL: `https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&utm_content=promo`
 
 ---
 
 ---
 
-## NEGATIVE KEYWORDS — LISTA MESTRA (nível campanha)
+## NEGATIVE KEYWORDS — MASTER LIST (Campaign Level)
 
 ```
 free trial
 free sample
-free shipping alone
 diy
 homemade
 recipe
@@ -501,7 +499,6 @@ side effects
 lawsuit
 recall
 fda warning
-lawsuit
 men
 male
 kids
@@ -522,94 +519,94 @@ ebay
 
 ---
 
-## CONFIGURAÇÕES DE LANCE AVANÇADAS
+## ADVANCED BID ADJUSTMENTS
 
-### Ajustes de Lance por Dispositivo
-| Dispositivo | Ajuste | Motivo |
+### By Device
+| Device | Adjustment | Reason |
 |---|---|---|
-| Mobile | +15% | Audiência 45+ usa mobile para pesquisa de saúde |
+| Mobile | +15% | Women 45+ use mobile for health research |
 | Desktop | Base (0%) | — |
-| Tablet | -10% | Menor intenção de compra |
+| Tablet | -10% | Lower purchase intent |
 
-### Ajustes de Lance por Horário
-| Horário | Ajuste | Motivo |
+### By Time of Day
+| Time | Adjustment | Reason |
 |---|---|---|
-| 6h–9h (manhã) | +20% | Ritual matinal — alta intenção |
-| 9h–12h | +10% | Produtivo — pesquisa ativa |
-| 12h–14h (almoço) | +15% | Pico de scroll mobile |
-| 14h–17h | Base | — |
-| 17h–20h (noite) | +10% | Relaxado — mais suscetível |
-| 20h–23h | +5% | Segunda pesquisa antes de dormir |
-| 23h–6h | -50% | Baixa conversão |
+| 6am–9am (morning) | +20% | Morning ritual mindset — high intent |
+| 9am–12pm | +10% | Active research window |
+| 12pm–2pm (lunch) | +15% | Mobile scroll peak |
+| 2pm–5pm | Base | — |
+| 5pm–8pm (evening) | +10% | Relaxed browsing — more receptive |
+| 8pm–11pm | +5% | Second research session before bed |
+| 11pm–6am | -50% | Low conversion window |
 
-### Ajustes de Lance por Localização
-| País | Ajuste | EPC Estimado |
+### By Location
+| Country | Adjustment | Est. EPC |
 |---|---|---|
-| Estados Unidos | Base | $1.35 |
-| Reino Unido | +10% | Maior poder aquisitivo |
-| Austrália | +5% | Boa conversão |
-| Canadá | Base | Similar EUA |
+| United States | Base | $1.35 |
+| United Kingdom | +10% | Higher purchasing power |
+| Australia | +5% | Strong conversion rate |
+| Canada | Base | Similar to US |
 
-### Ajustes de Lance por Audiência (Observação)
-| Segmento | Ajuste |
+### By Audience (Observation Layer — do NOT restrict)
+| Segment | Adjustment |
 |---|---|
-| Mulheres 45-54 | +25% |
-| Mulheres 55-64 | +20% |
-| Visitantes healthreport.today (sem compra) | +40% |
-| Compradores ClickBank excluídos | Excluir |
-| Lista clientes similares | +30% |
+| Women 45-54 | +25% |
+| Women 55-64 | +20% |
+| healthreport.today visitors (no purchase) | +40% |
+| ClickBank buyers — EXCLUDE | Exclude |
+| Similar audiences to buyers | +30% |
 
 ---
 
 ---
 
-## ROADMAP DE OTIMIZAÇÃO
+## OPTIMIZATION ROADMAP
 
-### Semana 1 — Coleta de Dados
-- Budget: $15/dia
-- Bidding: Maximizar Conversões
-- **NÃO** alterar nada — deixar Google aprender
-- Monitorar apenas: CTR e Quality Score
-- Meta CTR Search: > 3%
-- Meta Quality Score: ≥ 6
+### Week 1 — Data Collection
+- Budget: $15/day
+- Bidding: Maximize Conversions
+- **DO NOT** change anything — let Google learn
+- Monitor only: CTR and Quality Score
+- Target CTR Search: > 3%
+- Target Quality Score: ≥ 6
 
-### Semana 2 — Primeiras Otimizações
-Verificar semanalmente:
+### Week 2 — First Optimizations
+Review weekly:
 
-1. **Search Terms Report** — adicionar termos convertendo como [exato], negativar termos irrelevantes
-2. **Auction Insights** — ver quem está competindo nas mesmas keywords
-3. **Ad Strength** — garantir todos os RSAs com força "Boa" ou "Excelente"
-4. Pausar headlines com CTR < 1% (Google mostra performance individual)
+1. **Search Terms Report** — add converting terms as [exact match], add irrelevant terms as negatives
+2. **Auction Insights** — see who is bidding on the same keywords
+3. **Ad Strength** — ensure all RSAs show "Good" or "Excellent" strength
+4. Pause individual headlines with CTR < 1% (Google shows per-asset performance)
 
-### Semana 3 — Ativar CPA Desejado
-- Se ≥ 30 conversões nas últimas 2 semanas → ativar Target CPA
-- CPA inicial: $90 (APV Ikaria é $143 — margem de lucro com CPA $90 = $53/venda)
-- Reducir gradualmente: $90 → $80 → $70 a cada semana se houver volume
+### Week 3 — Activate Target CPA
+- If ≥ 30 conversions in the last 2 weeks → activate Target CPA bidding
+- Starting CPA: $90 (Ikaria APV is $143 — profit margin at CPA $90 = $53/sale)
+- Reduce gradually: $90 → $80 → $70 each week if volume holds
 
-### Semana 4+ — Escalar
-| Métrica | Ação |
+### Week 4+ — Scale
+| Metric | Action |
 |---|---|
-| ROAS > 1.3 por 3 dias consecutivos | +20% budget |
-| CPA < $70 sustentado | +30% budget |
-| Ad Group com CTR > 5% | Duplicar com budget próprio |
-| Ad Group com CTR < 1.5% após 500 impressões | Pausar |
-| Keyword com 0 conversões após $50 gasto | Pausar |
+| ROAS > 1.3 for 3 consecutive days | +20% daily budget |
+| CPA < $70 sustained for 7 days | +30% daily budget |
+| Ad Group CTR > 5% | Duplicate as standalone campaign with own budget |
+| Ad Group CTR < 1.5% after 500 impressions | Pause ad group |
+| Keyword with 0 conversions after $30 spent | Pause keyword |
 
 ---
 
 ---
 
-## RASTREAMENTO DE CONVERSÃO — CONFIGURAÇÃO RÁPIDA
+## CONVERSION TRACKING — QUICK SETUP
 
-### Ações de Conversão a Criar
+### Conversion Actions to Create in Google Ads
 
-| Nome | Evento | Valor | Contagem |
+| Name | Trigger | Value | Count |
 |---|---|---|---|
-| `Bridge_PageView` | Visita à página | $0 | Uma |
-| `Bridge_CTAClick` | Clique no botão CTA | $1 | Uma |
-| `Purchase_ClickBank` | Compra (via ClickMagick + GCLID) | $143 | Uma |
+| `Bridge_PageView` | Page visit | $0 | Once |
+| `Bridge_CTAClick` | CTA button click | $1 | Once |
+| `Purchase_ClickBank` | Sale (via ClickMagick + GCLID passthrough) | $143 | Once |
 
-### Google Tag — Adicionar no `<head>` do healthreport.today
+### Google Tag — Add to `<head>` of healthreport.today
 
 ```html
 <!-- Google tag (gtag.js) -->
@@ -622,14 +619,14 @@ Verificar semanalmente:
 </script>
 ```
 
-Substituir `AW-XXXXXXXXXX` pelo seu Google Ads Conversion ID.
+Replace `AW-XXXXXXXXXX` with your Google Ads Conversion ID.
 
-### GCLID Passthrough — URL de Destino Todos os Anúncios
+### GCLID Passthrough — All Ad Destination URLs
 ```
 https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&utm_content=[ADGROUP]&gclid={gclid}
 ```
 
-O `{gclid}` é preenchido automaticamente pelo Google. Não alterar.
+Google auto-populates `{gclid}`. Do not encode or modify it. Pass through ClickMagick to ClickBank IPN.
 
 ---
 
@@ -637,31 +634,31 @@ O `{gclid}` é preenchido automaticamente pelo Google. Não alterar.
 
 ## KILL RULES — BOFU SEARCH
 
-| Métrica | Threshold | Ação |
+| Metric | Threshold | Action |
 |---|---|---|
-| CTR < 2% | Após 300 impressões | Pausar esse anúncio |
-| Quality Score ≤ 4 | Após 7 dias | Revisar keyword + copy + landing page |
-| CPC > $4.00 | Semana 1 | Adicionar teto de lance manual temporário |
-| Keyword sem conversão | Após $30 gastos | Pausar keyword |
-| Ad Group ROAS < 0.5 | Semana 2 | Pausar, revisar copy |
-| Search term irrelevante | Primeira aparição | Negativar imediatamente |
+| CTR < 2% | After 300 impressions | Pause that ad |
+| Quality Score ≤ 4 | After 7 days live | Review keyword + copy + landing page alignment |
+| CPC > $4.00 | Week 1 | Add temporary manual bid ceiling |
+| Keyword with 0 conversions | After $30 spent | Pause keyword |
+| Ad Group ROAS < 0.5 | Week 2 | Pause, rewrite copy |
+| Irrelevant search term | First appearance | Add as negative immediately |
 
 ---
 
-## RESUMO EXECUTIVO
+## EXECUTIVE SUMMARY
 
-| Item | Valor |
+| Item | Value |
 |---|---|
 | Ad Groups | 5 |
-| RSAs | 5 (15 headlines + 4 descrições cada) |
-| Keywords totais | ~65 (exata + frase) |
-| Budget Semana 1 | $15/dia |
-| Budget Semana 2+ | $25/dia |
-| CPA Alvo | $80 |
-| Margem por venda (APV $143 – CPA $80) | **$63 por venda** |
-| Break-even EPC | $0.56 (vs Ikaria atual $1.35) |
-| Extensões | Sitelinks + Callouts + Snippets + Promotion |
+| RSAs | 5 (15 headlines + 4 descriptions each) |
+| Total Keywords | ~65 (exact + phrase match) |
+| Week 1 Daily Budget | $15/day |
+| Week 2+ Daily Budget | $25/day |
+| Target CPA | $80 |
+| Profit per sale (APV $143 – CPA $80) | **$63 per sale** |
+| Break-even EPC | $0.56 (vs current Ikaria EPC $1.35) |
+| Extensions | Sitelinks + Callouts + Structured Snippets + Promotion |
 
 ---
 
-*Google Search BOFU — Ikaria Lean Belly Juice — healthreport.today — Maio 2026*
+*Google Search BOFU — Ikaria Lean Belly Juice — healthreport.today — May 2026*
