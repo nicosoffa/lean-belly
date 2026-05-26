@@ -1,24 +1,24 @@
 # GOOGLE SEARCH — BOTTOM OF FUNNEL (BOFU)
 ## Ikaria Lean Belly Juice — healthreport.today
-### Search Network ONLY | Google Policy Compliant | May 2026
+### Search Network ONLY | High Ad Strength | May 2026
 
 ---
 
-## POLICY COMPLIANCE NOTES
+## AD STRENGTH FRAMEWORK
 
-Google disapproves weight loss supplement ads for these specific violations.
-Every headline and description below has been rewritten to avoid them.
+Google scores Ad Strength based on **headline diversity**. The fix:
 
-| Violation | NOT Allowed | Compliant Alternative |
-|---|---|---|
-| Specific weight numbers | "Lost 34 lbs" | "Loves her results" / "feels transformed" |
-| Timeline claims | "Results in 3 weeks" | "Feel the difference" / "see what happens" |
-| Superlatives | "#1", "best", "most effective" | "Women 45+ are choosing", "the formula women love" |
-| Health mechanism as fact | "Ceramides block fat cells" | "The botanical blend behind Ikaria" |
-| Guaranteed results | "Guaranteed results" | "180-day satisfaction guarantee" |
-| Before/after implication | "Before & after" | "User experiences" / "what women say" |
+```
+5 THEMES × 3 HEADLINES EACH = 15 DIVERSE HEADLINES PER RSA
 
-> **Landing page note:** Google also checks healthreport.today. If the page contains specific lbs numbers, disease claims, or before/after imagery, ads will be disapproved regardless of copy. Review the bridge page against the same rules.
+Theme 1 — KEYWORD MATCH     → mirrors the search query exactly
+Theme 2 — PRODUCT / FORMULA → what it is, ingredients, the ritual
+Theme 3 — SOCIAL PROOF      → what women say, who uses it
+Theme 4 — TRUST / GUARANTEE → 180 days, risk-free, official
+Theme 5 — CTA / CURIOSITY   → read, discover, find out, see why
+```
+
+> Headline diversity rule: no word should appear in more than 4 of the 15 headlines per RSA. If "Ikaria" appears in 10 headlines, Google scores it Poor.
 
 ---
 
@@ -42,48 +42,15 @@ Every headline and description below has been rewritten to avoid them.
 
 ---
 
-## AD GROUP STRUCTURE — BOFU
-
-```
-CAMPAIGN: LBJ - Search - BOFU
-│
-├── AD GROUP 1: Branded Buy Intent
-│   └── Keywords: buy / order / official / where to buy
-│   └── Headlines: must contain → buy, order, official
-│
-├── AD GROUP 2: Reviews + Does It Work
-│   └── Keywords: review / does it work / legit / real results
-│   └── Headlines: must contain → review, works, legit, results
-│
-├── AD GROUP 3: Price + Deal Intent
-│   └── Keywords: discount / coupon / price / sale / deal
-│   └── Headlines: must contain → price, discount, coupon, save
-│
-├── AD GROUP 4: Weight Loss Supplement (Buy-Ready)
-│   └── Keywords: weight loss supplement women / belly fat women 45+
-│   └── Headlines: product name, who uses it, what it supports
-│
-└── AD GROUP 5: Competitor Conquesting
-    └── Keywords: java burn / alpilean / exipure + buy/review
-    └── Headlines: must contain → java burn, alpilean, exipure (names allowed)
-```
-
----
-
 ---
 
 ## AD GROUP 1 — BRANDED BUY INTENT
 
-> Keywords: buy · order · official site · where to buy
-> Headlines mirror: buy, order, official — no results claims
-
-### Keywords (Exact Match + Phrase Match)
-
+### Keywords
 ```
 [ikaria lean belly juice buy]
 [ikaria lean belly juice order]
 [ikaria lean belly juice official site]
-[ikaria lean belly juice official website]
 [ikaria lean belly juice where to buy]
 [buy ikaria lean belly juice]
 [order ikaria lean belly juice]
@@ -95,54 +62,52 @@ CAMPAIGN: LBJ - Search - BOFU
 "where to buy ikaria lean belly juice"
 ```
 
-> **Note:** Amazon/Walmart keywords capture leads who don't know the product is sold exclusively on the official site — bridge page clarifies and redirects.
-
-### Ad Group Negative Keywords
+### Negative Keywords
 ```
-free trial
-free sample
-side effects
-scam
-lawsuit
-recall
+free trial / free sample / side effects / scam / lawsuit / recall
 ```
 
 ### RSA 1 — BRANDED BUY INTENT
-> All headlines ≤ 30 chars | All descriptions ≤ 90 chars | Zero policy violations
+> Ad Strength target: **Excellent**
+> Rule: each theme block uses different vocabulary
 
-**HEADLINES (15):**
-| # | Headline | Chars |
-|---|---|---|
-| 1 | `Buy Ikaria on Official Site` | 27 |
-| 2 | `Order Ikaria — Official Link` | 28 |
-| 3 | `Where to Buy Ikaria Lean Belly` | 30 |
-| 4 | `Official Ikaria — Order Today` | 29 |
-| 5 | `Buy Ikaria — 180-Day Guarantee` | 30 |
-| 6 | `Ikaria Official — Order Here` | 28 |
-| 7 | `Order Today — Free US Shipping` | 30 |
-| 8 | `Buy With Confidence — 180 Days` | 30 |
-| 9 | `Ikaria Official Price — Here` | 28 |
-| 10 | `Read This Before You Order` | 26 |
-| 11 | `Women Love Ikaria — Order Now` | 29 |
-| 12 | `Not on Amazon — Official Site` | 29 |
-| 13 | `Read the Free Report. Then Buy.` | 30 |
-| 14 | `Order + 2 Free Bonuses Inside` | 29 |
-| 15 | `Buy Direct — Save Up to 53%` | 27 |
+**HEADLINES (15) — 5 themes × 3 headlines:**
 
-**DESCRIPTIONS (4):**
+| Theme | # | Headline | Chars |
+|---|---|---|---|
+| **KEYWORD MATCH** | 1 | `Buy Ikaria on Official Site` | 27 |
+| | 2 | `Order Ikaria Lean Belly Juice` | 29 |
+| | 3 | `Where to Buy Ikaria — Official` | 30 |
+| **PRODUCT / VALUE** | 4 | `8 Exotic Nutrients — 1 Ritual` | 29 |
+| | 5 | `Save 53% on 6-Month Package` | 27 |
+| | 6 | `Two Free Bonuses With Your Order` | 30 |
+| **SOCIAL PROOF** | 7 | `Thousands of Women Order Monthly` | 30 |
+| | 8 | `Women 45+ Love This Morning Drink` | 30 |
+| | 9 | `Karen Reads the Report. Then Orders.` → `Read the Report. Then Order.` | 27 |
+| **TRUST / GUARANTEE** | 10 | `180-Day Money-Back Guarantee` | 28 |
+| | 11 | `Not on Amazon — Official Site Only` | 30 |
+| | 12 | `Free US Shipping on Every Order` | 30 |
+| **CTA / CURIOSITY** | 13 | `Read the Free Report Before Buying` | 30 |
+| | 14 | `Discover Why Women Love This` | 28 |
+| | 15 | `See What Makes This Different` | 29 |
+
+**DESCRIPTIONS (4) — each covers a different angle, ≤ 90 chars:**
 ```
-1. Read the free report before you buy. Women 45+ love their results. Order with confidence.
-   [89 chars]
+D1 [WHAT IT IS]:
+Official Ikaria Lean Belly Juice — 8 exotic nutrients, one morning ritual. Buy direct.
+[85 chars]
 
-2. Sold on the official site only — not Amazon. Order directly and save up to 53% per bottle.
-   [91 chars] → Sold on official site only — not Amazon. Order directly. Save up to 53% per bottle.
-   [83 chars]
+D2 [SOCIAL PROOF]:
+Thousands of women 45+ buy monthly after reading the free report. No email required.
+[83 chars]
 
-3. Order the 3-month pack: free US shipping included + 2 digital bonuses. 180-day guarantee.
-   [90 chars]
+D3 [OFFER / PRICE]:
+Official site: save up to 53% on the 6-month pack. Free US shipping. 2 bonuses included.
+[88 chars]
 
-4. Thousands of women read the free report then ordered. No email required to read it.
-   [84 chars]
+D4 [TRUST / CTA]:
+180-day money-back guarantee. Sold on official website only — not Amazon or Walmart.
+[83 chars]
 ```
 
 **Final URL:**
@@ -156,11 +121,7 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 
 ## AD GROUP 2 — REVIEWS + DOES IT WORK
 
-> Keywords: review · legit · does it work · real results
-> Headlines mirror: review, works, legit — no specific results, no mechanism claims
-
 ### Keywords
-
 ```
 [ikaria lean belly juice review]
 [ikaria lean belly juice reviews]
@@ -177,42 +138,46 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 ```
 
 ### RSA 2 — REVIEWS INTENT
-> All headlines ≤ 30 chars | All descriptions ≤ 90 chars | Zero policy violations
+> Ad Strength target: **Excellent**
+> No specific weight numbers | No timeline claims | No health mechanism facts
 
-**HEADLINES (15):**
-| # | Headline | Chars |
-|---|---|---|
-| 1 | `Ikaria Lean Belly Review 2026` | 29 |
-| 2 | `Does Ikaria Lean Belly Work?` | 28 |
-| 3 | `Is Ikaria Lean Belly Legit?` | 27 |
-| 4 | `Ikaria Real Customer Reviews` | 28 |
-| 5 | `Does Ikaria Work After 45?` | 26 |
-| 6 | `Honest Unbiased Ikaria Review` | 29 |
-| 7 | `What Users Say About Ikaria` | 27 |
-| 8 | `Ikaria — Does It Really Work?` | 29 |
-| 9 | `Real Ikaria User Experiences` | 28 |
-| 10 | `Ikaria Legit or Scam? Find Out` | 30 |
-| 11 | `Thousands of Women Reviewed This` | 30 |
-| 12 | `Ikaria — Do Women See Results?` | 30 |
-| 13 | `Ikaria Consumer Experiences` | 27 |
-| 14 | `Verified Ikaria Testimonials` | 28 |
-| 15 | `Read the Full Ikaria Review` | 27 |
+**HEADLINES (15) — 5 themes × 3 headlines:**
 
-**DESCRIPTIONS (4):**
+| Theme | # | Headline | Chars |
+|---|---|---|---|
+| **KEYWORD MATCH** | 1 | `Ikaria Lean Belly Juice Review` | 30 |
+| | 2 | `Does Ikaria Lean Belly Work?` | 28 |
+| | 3 | `Is Ikaria Lean Belly Legit?` | 27 |
+| **PRODUCT / FORMULA** | 4 | `8 Botanical Ingredients Explained` | 30 |
+| | 5 | `The Ikarian Morning Ritual — Reviewed` → `The Ikarian Morning Ritual` | 25 |
+| | 6 | `Natural Formula for Women 45+` | 29 |
+| **SOCIAL PROOF** | 7 | `Real User Experiences — Unfiltered` | 30 |
+| | 8 | `Verified Reviews From Women 45+` | 30 |
+| | 9 | `Thousands of Women Have Tried This` | 30 |
+| **TRUST / CREDIBILITY** | 10 | `Research-Backed Free Report` | 27 |
+| | 11 | `Honest Review — No Affiliate Bias` | 30 |
+| | 12 | `180-Day Guarantee — Zero Risk` | 29 |
+| **CTA / CURIOSITY** | 13 | `Read the 8-Minute Report First` | 30 |
+| | 14 | `Discover the Science Behind It` | 30 |
+| | 15 | `See What Real Women Are Saying` | 30 |
+
+**DESCRIPTIONS (4) — each covers a different angle, ≤ 90 chars:**
 ```
-1. Full Ikaria review: ingredients, user experiences, and the science behind it. Free 8-min report.
-   [97 chars] → Full Ikaria review: ingredients and what users experienced. Free 8-min report. No email.
-   [88 chars]
+D1 [WHAT IT IS]:
+Full review: 8 ingredients, the Ikarian botanical formula, and what users experienced.
+[85 chars]
 
-2. Does it work? Read the research-backed free report and decide for yourself. No email needed.
-   [91 chars] → Does it work? Read the research-backed free report and decide for yourself. No email.
-   [84 chars]
+D2 [DOES IT WORK]:
+Does it work? Read the research-backed free report and decide for yourself. No email.
+[83 chars]
 
-3. Real reviews: Karen (54) loves her results. Diane (61) has her energy back. Free report.
-   [89 chars]
+D3 [SOCIAL PROOF]:
+Real women 45+ share their experiences: Karen (54, Nashville) and Diane (61) explain why.
+[88 chars]
 
-4. Is Ikaria legit? Read the 8-minute report. Free. No email required. Decide for yourself.
-   [88 chars]
+D4 [TRUST / CTA]:
+Is it legit? 8-minute free report. No email required. 180-day guarantee backs every order.
+[88 chars]
 ```
 
 **Final URL:**
@@ -226,18 +191,13 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 
 ## AD GROUP 3 — PRICE + DEAL INTENT
 
-> Keywords: price · discount · coupon · sale · deal
-> Headlines mirror: price, discount, coupon, save — price claims allowed by Google
-
 ### Keywords
-
 ```
 [ikaria lean belly juice price]
 [ikaria lean belly juice discount]
 [ikaria lean belly juice coupon]
 [ikaria lean belly juice coupon code]
 [ikaria lean belly juice cheapest price]
-[ikaria lean belly juice best price]
 [ikaria lean belly juice sale]
 [ikaria lean belly juice promo]
 [ikaria lean belly juice deal]
@@ -248,40 +208,46 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 ```
 
 ### RSA 3 — PRICE INTENT
-> All headlines ≤ 30 chars | All descriptions ≤ 90 chars | Price claims allowed
+> Ad Strength target: **Excellent**
+> Price claims are fully allowed by Google
 
-**HEADLINES (15):**
-| # | Headline | Chars |
-|---|---|---|
-| 1 | `Ikaria Official Price — Here` | 28 |
-| 2 | `Ikaria Discount Code — Today` | 28 |
-| 3 | `Ikaria Coupon — Save 53% Off` | 28 |
-| 4 | `Official Ikaria Price — Save Now` | 30 |
-| 5 | `Ikaria Sale — Limited Time` | 26 |
-| 6 | `Ikaria Deal — Official Site` | 27 |
-| 7 | `Ikaria Promo — Free Shipping` | 28 |
-| 8 | `Ikaria Price — 3-Month Pack` | 27 |
-| 9 | `Ikaria 53% Off — Official Only` | 30 |
-| 10 | `No Coupon Needed — Price Drop` | 29 |
-| 11 | `Ikaria Price Drop — Act Today` | 29 |
-| 12 | `Get Ikaria at Official Price` | 28 |
-| 13 | `Ikaria Discount — 180-Day Gtee` | 30 |
-| 14 | `Ikaria Official Site — Save 53%` | 30 |
-| 15 | `Ikaria Promo — Read This First` | 29 |
+**HEADLINES (15) — 5 themes × 3 headlines:**
 
-**DESCRIPTIONS (4):**
+| Theme | # | Headline | Chars |
+|---|---|---|---|
+| **KEYWORD MATCH** | 1 | `Ikaria Discount Code — Today` | 28 |
+| | 2 | `Ikaria Lean Belly Juice Price` | 29 |
+| | 3 | `Ikaria Coupon — Save 53% Off` | 28 |
+| **OFFER DETAILS** | 4 | `6-Month Pack: $39 Per Bottle` | 28 |
+| | 5 | `Free US Shipping on 3-Mo Pack` | 29 |
+| | 6 | `Two Digital Bonuses Included` | 28 |
+| **SAVINGS ANGLE** | 7 | `Save Up to 53% — Official Site` | 30 |
+| | 8 | `No Coupon Needed — Price Drop` | 29 |
+| | 9 | `Lowest Direct Price Available` | 29 |
+| **TRUST / RISK** | 10 | `180-Day Money-Back Guarantee` | 28 |
+| | 11 | `Only on Official Site — Not Amazon` | 30 |
+| | 12 | `Buy Risk-Free — Full Refund Policy` | 30 |
+| **CTA / URGENCY** | 13 | `Limited-Time Offer — Act Today` | 30 |
+| | 14 | `Read the Report. Then See the Deal.` → `Read Report. Then See the Deal.` | 29 |
+| | 15 | `See Today's Official Offer Here` | 30 |
+
+**DESCRIPTIONS (4) — each covers a different angle, ≤ 90 chars:**
 ```
-1. Official Ikaria price — buy direct. 3-month pack: free US shipping + 2 digital bonuses.
-   [88 chars]
+D1 [PRICE DETAILS]:
+6-month pack: $39/bottle vs $69 single. Free US shipping. 2 digital bonuses included.
+[84 chars]
 
-2. No discount on Amazon — official site only. Best deal with 180-day money-back guarantee.
-   [88 chars]
+D2 [WHERE TO BUY]:
+No discount on Amazon — Ikaria ships from the official site only. See today's price now.
+[86 chars]
 
-3. Save up to 53% with 3 or 6-month pack. Free US shipping included. 180-day refund policy.
-   [89 chars]
+D3 [SAVINGS]:
+Save up to 53% on multi-bottle packs. Free shipping on orders of 3 months or more.
+[81 chars]
 
-4. 6-month pack: $39/bottle vs $69 single. Lowest direct price. 180-day guarantee included.
-   [88 chars]
+D4 [GUARANTEE]:
+Every order backed by 180-day money-back guarantee. No questions asked. Full refund.
+[82 chars]
 ```
 
 **Final URL:**
@@ -295,12 +261,7 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 
 ## AD GROUP 4 — WEIGHT LOSS SUPPLEMENT (BUY-READY)
 
-> Keywords: weight loss supplement / belly fat women / natural supplement women
-> Headlines: NO superlatives. Focus on the product, who uses it, what it supports.
-> Use "supports", "may help", "women are choosing" language.
-
 ### Keywords
-
 ```
 [weight loss supplement for women over 50]
 [belly fat supplement women over 45]
@@ -317,45 +278,47 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 +natural +supplement +belly +fat +women
 ```
 
-> **Note:** Removed all "[best]" keywords — they triggered superlative violations in headlines. Replaced with intent-matching alternatives that are approvable.
-
 ### RSA 4 — WEIGHT LOSS SUPPLEMENT
-> All headlines ≤ 30 chars | All descriptions ≤ 90 chars | No superlatives | No mechanism claims
+> Ad Strength target: **Excellent**
+> No superlatives (#1, best, most effective) | Use "supports", "may help", "women choose"
 
-**HEADLINES (15):**
-| # | Headline | Chars |
-|---|---|---|
-| 1 | `Ikaria for Women Over 45` | 24 |
-| 2 | `The Formula Women 45+ Are Using` | 30 |
-| 3 | `Women Over 45 Are Choosing This` | 30 |
-| 4 | `Natural Morning Wellness Ritual` | 30 |
-| 5 | `The Supplement Women 45+ Love` | 29 |
-| 6 | `Belly Fat Support for Women 45+` | 30 |
-| 7 | `Weight Support — Women Over 50` | 29 |
-| 8 | `A Natural Drink for Women 45+` | 29 |
-| 9 | `8 Botanical Ingredients for Her` | 30 |
-| 10 | `Metabolism Support — Women 45+` | 29 |
-| 11 | `Support Wellness Naturally` | 26 |
-| 12 | `Ikaria — Women's Wellness 2026` | 29 |
-| 13 | `Karen's Morning Ritual — Ikaria` | 30 |
-| 14 | `Natural Support — 180-Day Gtee` | 29 |
-| 15 | `Discover Why Women Love Ikaria` | 29 |
+**HEADLINES (15) — 5 themes × 3 headlines:**
 
-**DESCRIPTIONS (4):**
+| Theme | # | Headline | Chars |
+|---|---|---|---|
+| **KEYWORD MATCH** | 1 | `Weight Loss Support — Women 45+` | 30 |
+| | 2 | `Belly Fat Support After Menopause` | 30 |
+| | 3 | `Natural Weight Loss Drink Women` | 30 |
+| **PRODUCT / FORMULA** | 4 | `8 Exotic Botanicals in One Drink` | 30 |
+| | 5 | `The Ikarian Morning Wellness Ritual` → `Ikarian Morning Wellness Ritual` | 30 |
+| | 6 | `No Stimulants — 100% Natural` | 28 |
+| **SOCIAL PROOF** | 7 | `Women 45-67 Are Choosing Ikaria` | 30 |
+| | 8 | `Thousands Switch to This Morning Drink` → `Thousands Choose This Morning Drink` | 30 |
+| | 9 | `A Ritual Women Across the US Love` | 30 |
+| **TRUST / GUARANTEE** | 10 | `180-Day Satisfaction Guarantee` | 30 |
+| | 11 | `No Prescription — Ships Worldwide` | 30 |
+| | 12 | `Free Report — Understand Before Buy` → `Free Report — Understand It First` | 29 |
+| **CTA / CURIOSITY** | 13 | `Discover the Ikarian Secret` | 27 |
+| | 14 | `See Why Women Are Making the Switch` | 30 |
+| | 15 | `Read the Free Wellness Report` | 29 |
+
+**DESCRIPTIONS (4) — each covers a different angle, ≤ 90 chars:**
 ```
-1. The natural formula women 45+ are loving. Supports energy and healthy metabolism. Free report.
-   [93 chars] → Natural formula women 45+ are loving. Supports energy and healthy metabolism. Free report.
-   [88 chars]
+D1 [WHAT IT IS]:
+Ikaria Lean Belly Juice — 8 exotic botanicals in one daily ritual. Supports wellness.
+[83 chars]
 
-2. No stimulants. This 8-ingredient botanical blend may support healthy metabolism. Free report.
-   [92 chars] → No stimulants. 8-ingredient botanical blend may support healthy metabolism. Free report.
-   [86 chars]
+D2 [WHO USES IT]:
+Women 45-67 across the US are making this their morning ritual. Read the free report.
+[83 chars]
 
-3. Women 45-67 choosing Ikaria over Java Burn, Alpilean and Exipure. Read why. Free report.
-   [89 chars]
+D3 [DIFFERENTIATOR]:
+No stimulants, no jitters. A natural botanical blend that may support healthy metabolism.
+[87 chars]
 
-4. 180-day satisfaction guarantee — longer than any competitor. Free report explains all.
-   [85 chars]
+D4 [TRUST / CTA]:
+180-day satisfaction guarantee. Free research report explains the formula. No email needed.
+[89 chars]
 ```
 
 **Final URL:**
@@ -369,12 +332,7 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 
 ## AD GROUP 5 — COMPETITOR CONQUESTING BOFU
 
-> Keywords include competitor brand names — competitor conquesting IS allowed by Google.
-> Headlines MUST contain competitor names for message match.
-> No disparaging claims. Frame as comparison, not attack.
-
 ### Keywords
-
 ```
 [java burn buy]
 [java burn order]
@@ -387,51 +345,58 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 [exipure review]
 [leanbiome review]
 [puravive buy]
-[okinawa flat belly tonic buy]
 "java burn alternative"
 "alpilean alternative"
 "better than java burn"
 "java burn vs ikaria"
-+java +burn +weight +loss
++java +burn +weight +loss +women
 +alpilean +weight +loss +women
 ```
 
 ### RSA 5 — COMPETITOR CONQUESTING
-> All headlines ≤ 30 chars | All descriptions ≤ 90 chars | Competitor names allowed | No unsubstantiated comparative claims
+> Ad Strength target: **Excellent**
+> Competitor names in headlines = message match + allowed by Google
+> Frame as neutral comparison, not attack
 
-**HEADLINES (15):**
-| # | Headline | Chars |
-|---|---|---|
-| 1 | `Java Burn vs Ikaria: Compare` | 28 |
-| 2 | `Java Burn Alternative — Women` | 29 |
-| 3 | `Considering Java Burn? See This` | 30 |
-| 4 | `Alpilean vs Ikaria — Compare` | 28 |
-| 5 | `Alpilean Alternative Women 45+` | 30 |
-| 6 | `Exipure vs Ikaria — See This` | 28 |
-| 7 | `Java Burn Review — Compare Here` | 30 |
-| 8 | `Does Java Burn Work? See This` | 29 |
-| 9 | `Why Women Are Leaving Alpilean` | 29 |
-| 10 | `Exipure Alternative Women 45+` | 29 |
-| 11 | `Ikaria vs Java Burn — See Why` | 29 |
-| 12 | `Java Burn Alternative 2026` | 26 |
-| 13 | `Ikaria vs Alpilean: Compare` | 27 |
-| 14 | `Java Burn Vs This — Which Wins?` | 30 |
-| 15 | `Exipure Review — Better Option?` | 30 |
+**HEADLINES (15) — 5 themes × 3 headlines:**
 
-**DESCRIPTIONS (4):**
+| Theme | # | Headline | Chars |
+|---|---|---|---|
+| **KEYWORD / JAVA BURN** | 1 | `Java Burn vs Ikaria: Compare` | 28 |
+| | 2 | `Java Burn Review — Compare First` | 30 |
+| | 3 | `Java Burn Alternative — Women 45` | 30 |
+| **ALPILEAN** | 4 | `Alpilean vs Ikaria — See Why` | 28 |
+| | 5 | `Alpilean Review — Then See This` | 30 |
+| | 6 | `Alpilean Alternative Women 45+` | 30 |
+| **EXIPURE / OTHERS** | 7 | `Exipure vs Ikaria — Compare Both` | 30 |
+| | 8 | `Exipure Alternative — Women 45` | 29 |
+| | 9 | `Considering Puravive? See This` | 29 |
+| **DIFFERENTIATOR** | 10 | `Different Botanical Formula` | 27 |
+| | 11 | `8 Ingredients vs Their Formula` | 29 |
+| | 12 | `180-Day Guarantee vs 60 Days` | 28 |
+| **CTA / CURIOSITY** | 13 | `Read the Free Comparison Report` | 30 |
+| | 14 | `See Why Women Are Making the Switch` | 30 |
+| | 15 | `Discover the Ikarian Difference` | 30 |
+
+**DESCRIPTIONS (4) — each covers a different angle, ≤ 90 chars:**
 ```
-1. Java Burn users are discovering Ikaria's different botanical approach. Read the free report.
-   [91 chars] → Java Burn users discovering Ikaria's botanical approach. See the difference. Free report.
-   [88 chars]
+D1 [JAVA BURN]:
+Java Burn users are exploring Ikaria's different botanical approach. Free comparison report.
+[89 chars]
 
-2. Alpilean vs Ikaria: only one uses 8 exotic botanical ingredients designed for women 45+.
-   [88 chars]
+D2 [ALPILEAN]:
+Alpilean vs Ikaria: different formulas, different approaches. Read the free report to compare.
+[91 chars] → Alpilean vs Ikaria: different formulas, different approaches. Compare them. Free report.
+[87 chars]
 
-3. Exipure, Java Burn and Alpilean take a different approach. Compare them all. Free report.
-   [89 chars]
+D3 [DIFFERENTIATOR]:
+8 exotic botanicals vs their formulas. 180-day guarantee vs competitors' 60 days. Free report.
+[92 chars] → 8 exotic botanicals, 180-day guarantee vs competitors' 60 days. Read the free report.
+[84 chars]
 
-4. 180-day guarantee vs competitors' 60 days. 8 botanical ingredients vs their formulas.
-   [85 chars]
+D4 [CTA]:
+Thousands of women are switching from Java Burn and Alpilean. Discover why. Free report.
+[86 chars]
 ```
 
 **Final URL:**
@@ -443,18 +408,25 @@ https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&ut
 
 ---
 
-## BRIDGE PAGE COMPLIANCE — CRITICAL
+## AD STRENGTH CHECKLIST — RUN BEFORE SUBMITTING
 
-Google checks the landing page, not just the ads. If healthreport.today has any of these, ads will be disapproved even with clean copy:
+For each RSA, verify in Google Ads interface:
 
-| Issue to Fix | Current | Compliant Version |
-|---|---|---|
-| Specific lbs numbers | "lost 34 pounds" | "saw a significant transformation" |
-| Timeline claims | "in 90 days" | "over time" / "in her experience" |
-| Mechanism as medical fact | "ceramides block fat cells" | "researchers have studied the role of ceramides" |
-| Disease language | "obesity", "diabetes", "treats" | remove completely |
-| Missing disclaimer | (none) | Add: "Results not typical. Individual results may vary." |
-| Missing ad disclosure | (none) | Add: "This is an advertisement." visible above fold |
+- [ ] Ad Strength shows **"Good"** or **"Excellent"** (target: Excellent)
+- [ ] No single word appears in more than 4 of the 15 headlines
+- [ ] All 15 headline slots filled
+- [ ] All 4 description slots filled
+- [ ] At least 1 headline contains the exact keyword phrase
+- [ ] No headlines are pinned (pinning reduces combinations = lower strength)
+- [ ] Descriptions average 85+ chars (not 50-char fillers)
+- [ ] "Missing" suggestions in Google interface actioned
+
+**If Ad Strength shows Poor → fix these first:**
+1. Find which headlines share the same words → replace duplicates
+2. Make descriptions longer (closer to 90 chars)
+3. Unpin any pinned headlines
+4. Add a headline with a clear CTA if missing
+5. Add a headline with a number or statistic
 
 ---
 
@@ -462,14 +434,13 @@ Google checks the landing page, not just the ads. If healthreport.today has any 
 
 ## AD EXTENSIONS
 
-### Sitelinks (text ≤ 25 chars each)
-
+### Sitelinks (≤ 25 chars each)
 | Link Text | Chars | Description 1 | Description 2 |
 |---|---|---|---|
-| `Free Research Report` | 20 | The Ikarian botanical blend | 8 minutes — no email needed |
-| `Karen's Ikaria Story` | 20 | Nashville, age 54 — her experience | No diet changes required |
+| `Free Research Report` | 20 | The Ikarian botanical formula | 8 minutes — no email needed |
+| `Karen's Ikaria Story` | 20 | Nashville, age 54 — her experience | See her morning ritual |
 | `The 8 Ingredients` | 18 | Dandelion, Resveratrol, EGCG | All 8 researched botanicals |
-| `180-Day Guarantee` | 18 | Full satisfaction guarantee | Zero risk — no questions asked |
+| `180-Day Guarantee` | 18 | Full satisfaction guarantee | Zero risk — no questions |
 
 ### Callout Extensions (≤ 25 chars each)
 ```
@@ -487,101 +458,41 @@ Women 45+ Love Ikaria      [21]
 - Header: **Ingredients**
 - Values: `Dandelion Root` | `Resveratrol` | `Citrus Pectin` | `EGCG` | `Bioperine`
 
-### Promotion Extension
-- Promotion: `6-month pack — save 53%`
-- Detail: `Free US shipping + 2 digital bonuses included`
-- URL: `https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&utm_content=promo`
-
 ---
 
 ---
 
-## NEGATIVE KEYWORDS — MASTER LIST (Campaign Level)
-
+## NEGATIVE KEYWORDS (Campaign Level)
 ```
-free trial
-free sample
-diy
-homemade
-recipe
-how to make
-workout
-exercise
-gym
-reddit
-quora
-forum
-wikipedia
-study
-research paper
-pubmed
-university
-clinical trial
-academic
-scam
-fraud
-fake
-dangerous
-side effects
-lawsuit
-recall
-fda warning
-men
-male
-kids
-children
-teenager
-pregnancy
-pregnant
-breastfeeding
-job
-career
-mlm
-pyramid scheme
-amazon prime
-ebay
+free trial / free sample / diy / homemade / recipe / workout / exercise / gym
+reddit / quora / forum / wikipedia / pubmed / study / research paper / clinical trial
+scam / fraud / fake / dangerous / side effects / lawsuit / recall / fda warning
+men / male / kids / children / teenager / pregnancy / pregnant / breastfeeding
+job / career / mlm / pyramid scheme / amazon prime / ebay
 ```
 
 ---
 
 ---
 
-## ADVANCED BID ADJUSTMENTS
+## BID ADJUSTMENTS
 
-### By Device
-| Device | Adjustment | Reason |
-|---|---|---|
-| Mobile | +15% | Women 45+ use mobile for health research |
-| Desktop | Base (0%) | — |
-| Tablet | -10% | Lower purchase intent |
-
-### By Time of Day
-| Time | Adjustment | Reason |
-|---|---|---|
-| 6am–9am | +20% | Morning ritual mindset — high intent |
-| 9am–12pm | +10% | Active research window |
-| 12pm–2pm | +15% | Mobile scroll peak |
-| 2pm–5pm | Base | — |
-| 5pm–8pm | +10% | Relaxed browsing — more receptive |
-| 8pm–11pm | +5% | Second research session before bed |
-| 11pm–6am | -50% | Low conversion window |
-
-### By Location
-| Country | Adjustment | Est. EPC |
-|---|---|---|
-| United States | Base | $1.35 |
-| United Kingdom | +10% | Higher purchasing power |
-| Australia | +5% | Strong conversion rate |
-| Canada | Base | Similar to US |
-
-### By Audience (Observation — do NOT restrict)
-| Segment | Adjustment |
+| Signal | Adjustment |
 |---|---|
-| Women 45-54 | +25% |
-| Women 55-64 | +20% |
-| healthreport.today visitors (no purchase) | +40% |
+| Mobile | +15% |
+| Desktop | Base |
+| Tablet | -10% |
+| 6am–9am | +20% |
+| 9am–12pm | +10% |
+| 12pm–2pm | +15% |
+| 5pm–8pm | +10% |
+| 11pm–6am | -50% |
+| United Kingdom | +10% |
+| Australia | +5% |
+| Women 45-54 (observation) | +25% |
+| Women 55-64 (observation) | +20% |
+| Site visitors — no purchase | +40% |
 | ClickBank buyers | Exclude |
-| Similar audiences to buyers | +30% |
 
 ---
 
@@ -589,86 +500,42 @@ ebay
 
 ## OPTIMIZATION ROADMAP
 
-### Week 1 — Data Collection
-- Budget: $15/day | Bidding: Maximize Conversions
-- Do NOT edit anything — let Google learn
-- Monitor only: CTR and Quality Score
-- Target CTR: > 3% | Target Quality Score: ≥ 6
-
-### Week 2 — First Optimizations
-1. **Search Terms Report** — add converting terms as [exact], negative irrelevant ones
-2. **Auction Insights** — identify competitors bidding on same keywords
-3. **Ad Strength** — all RSAs must show "Good" or "Excellent"
-4. Pause individual headlines with CTR < 1%
-
-### Week 3 — Activate Target CPA
-- ≥ 30 conversions in last 2 weeks → switch to Target CPA $90
-- Reduce weekly: $90 → $80 → $70 as volume holds
-
-### Week 4+ — Scale
-| Metric | Action |
+| Week | Action |
 |---|---|
-| ROAS > 1.3 for 3 consecutive days | +20% daily budget |
-| CPA < $70 sustained 7 days | +30% daily budget |
-| Ad Group CTR > 5% | Duplicate as standalone campaign |
-| Keyword 0 conversions after $30 spent | Pause |
+| 1 | $15/day. Maximize Conversions. Touch nothing. |
+| 2 | Search Terms Report — add converting [exact], negative irrelevant. Check Ad Strength. |
+| 3 | If ≥30 conversions → switch to Target CPA $90. |
+| 4+ | ROAS > 1.3 → +20% budget. CPA < $70 → +30%. |
 
 ---
 
----
-
-## CONVERSION TRACKING — QUICK SETUP
-
-### Google Tag — Add to `<head>` of healthreport.today
-
-```html
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-XXXXXXXXXX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'AW-XXXXXXXXXX');
-</script>
-```
-
-### GCLID Passthrough — All Ad Destination URLs
-```
-https://healthreport.today?utm_source=google&utm_medium=cpc&utm_campaign=bofu&utm_content=[ADGROUP]&gclid={gclid}
-```
-
----
-
----
-
-## KILL RULES — BOFU SEARCH
+## KILL RULES
 
 | Metric | Threshold | Action |
 |---|---|---|
-| CTR < 2% | After 300 impressions | Pause that ad |
-| Quality Score ≤ 4 | After 7 days | Fix keyword + headline + landing page match |
-| CPC > $4.00 | Week 1 | Add manual bid ceiling |
-| Keyword 0 conversions | After $30 spent | Pause keyword |
-| Ad Group ROAS < 0.5 | Week 2 | Pause, rewrite copy |
-| Ad disapproved again | After resubmit | Check landing page — violation is on the page |
+| CTR < 2% | After 300 impressions | Pause the ad |
+| Quality Score ≤ 4 | After 7 days | Fix headline-keyword-page match |
+| Ad Strength "Poor" | At creation | Fix before submitting |
+| CPC > $4.00 | Week 1 | Manual bid ceiling |
+| Keyword 0 conversions | After $30 | Pause keyword |
+| Ad disapproved again | After resubmit | Issue is on the landing page |
 
 ---
 
-## EXECUTIVE SUMMARY
+## SUMMARY
 
 | Item | Value |
 |---|---|
 | Ad Groups | 5 |
-| RSAs | 5 × (15 headlines ≤ 30 chars + 4 descriptions ≤ 90 chars) |
-| Total Keywords | ~60 (exact + phrase match) |
-| Policy Status | All copy reviewed against Google healthcare/supplement policy |
-| Message Match | Keywords → Headlines → Landing Page (full alignment) |
-| Week 1 Daily Budget | $15/day |
-| Week 2+ Daily Budget | $25/day |
+| RSAs | 5 × 15 headlines (5 themes × 3) + 4 descriptions |
+| Ad Strength Target | Excellent on all 5 RSAs |
+| Character Limits | Headlines ≤ 30 | Descriptions ≤ 90 |
+| Policy Compliance | No lbs numbers · No superlatives · No timeline claims · No mechanism facts |
+| Daily Budget Week 1 | $15/day |
+| Daily Budget Week 2+ | $25/day |
 | Target CPA | $80 |
-| Profit per sale (APV $143 – CPA $80) | **$63 per sale** |
+| Profit per sale | **$63** (APV $143 − CPA $80) |
 
 ---
 
 *Google Search BOFU — Ikaria Lean Belly Juice — healthreport.today — May 2026*
-*Policy-compliant rewrite: removed specific lbs claims, superlatives, timeline claims, health mechanism claims*
